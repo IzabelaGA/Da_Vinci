@@ -1,0 +1,25 @@
+footer {
+  background: #1DA0C5;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  height: 7rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  font-size: 0.75rem;
+  padding: 1rem 2rem;
+  line-height: 1.6rem;
+}
+
+footer .logo2 {
+  display: flex;
+  flex-direction: column;
+}
+
+footer .logo2 em {
+  font-family: 'Muli', Helvetica, Arial, Lucida, sans-serif;
+  color: #fff;
+}
